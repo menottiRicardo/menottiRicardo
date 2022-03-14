@@ -1,4 +1,4 @@
-![caption](https://media0.giphy.com/media/zOvBKUUEERdNm/200.gif)
+![caption](https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
 ## Hi there, I'm Ricardo Menotti! 👋
 
 I'm a JavaScript Developer working with React, Nextjs and TypeScript.
