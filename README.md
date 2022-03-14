@@ -1,4 +1,4 @@
-![caption](https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
+![caption](https://raw.githubusercontent.com/codingknite/codingknite/main/programming.gif)
 ## Hi there, I'm Ricardo Menotti! 👋
 
 I'm a JavaScript Developer working with React, Nextjs and TypeScript.
