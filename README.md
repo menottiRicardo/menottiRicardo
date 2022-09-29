@@ -5,7 +5,8 @@ I'm a Full Stack Developer.
 
 - 🌱 Learning Elixir
 - 🔭 Working on open source projects
-- 📫 Reach me at [**ricardomenotti31@gmail.com**](ricardomenotti31@gmail.com) OR [**LinkedIn**](https://www.linkedin.com/in/ricardoamenotti)
+- 📫 Reach me at [**ricardomenotti31@gmail.com**](ricardomenotti31@gmail.com) 
+<!-- OR [**LinkedIn**](https://www.linkedin.com/in/ricardoamenotti) -->
 
 ## Skills 🚀
 
@@ -31,6 +32,7 @@ I'm a Full Stack Developer.
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
