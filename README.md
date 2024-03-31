@@ -3,8 +3,7 @@
 
 I'm a Full Stack Developer.
 
-- 🌱 Learning Elixir
-- 🔭 Working on open source projects
+- 🌱 Learning Go
 - 📫 Reach me at [**ricardomenotti31@gmail.com**](ricardomenotti31@gmail.com) 
 <!-- OR [**LinkedIn**](https://www.linkedin.com/in/ricardoamenotti) -->
 
