@@ -1,7 +1,7 @@
 ![caption](https://raw.githubusercontent.com/codingknite/codingknite/main/programming.gif)
 ## Hi there, I'm Ricardo Menotti! 👋
 
-I'm a Full Stack Developer.
+Hello there! I'm Ricardo, a full-stack developer with a deep commitment to excellence and innovation. I've worked on projects from conceptualization to deployment, emphasizing quality and user-centric design. I bring proactive leadership and a hands-on approach to problem-solving. Eager to apply my skills in new and impactful ways, I seek opportunities that challenge me to learn and grow, contributing to the success and innovation of my future team.
 
 - 🌱 Learning Go
 - 📫 Reach me at [**ricardomenotti31@gmail.com**](ricardomenotti31@gmail.com) 
